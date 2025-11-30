@@ -1,8 +1,8 @@
 # Trabalho Semestral - Redes de Computadores (MATA59) - UFBA
 
-**Disciplina:** Redes de Computadores (MATA59)
-**Professor:** Leobino Sampaio
-**Grupo:** 4
+**Disciplina:** Redes de Computadores (MATA59)  
+**Professor:** Leobino Sampaio  
+**Grupo:** 4  
 **Alunos:**
 - Beatriz de Santana da Cruz
 - Danilo Conceição de Souza
